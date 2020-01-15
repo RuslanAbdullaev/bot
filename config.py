@@ -1,10 +1,10 @@
 import datetime
 
-path_to_parsing='/home/render/bot/raspbot/'
-path_to_rasp='/home/render/bot/rasptxt/'
-patt_to_groop="/home/render/bot/groop.txt"
-path_to_admin_id="/home/render/bot/IdAdmin.txt"
-path_to_log="/home/render/bot/log.txt"
+path_to_parsing='/root/bot/raspbot/'
+path_to_rasp='/root/bot/rasptxt/'
+patt_to_groop="/root/bot/groop.txt"
+path_to_admin_id="/root/bot/IdAdmin.txt"
+path_to_log="/root/bot/log.txt"
 token = ''
 
 
